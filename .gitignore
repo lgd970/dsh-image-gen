@@ -1,0 +1,21 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.local
+*.local.*
+.credentials*
+credentials.*
+config.yml
+config.yaml
+config.json
+cordis.local*.yml
+cordis.local*.yaml
+# Dependencies, generated output and logs
+node_modules/
+*.log
+coverage/
+dist/
+output/
+outputs/
+dsh-images/

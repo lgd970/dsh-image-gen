@@ -1,0 +1,2 @@
+# 本插件把生图模型接成 DSH 原生工具，patch 由 profile 层（cordis.patch.yml）负责插入。
+[]
